@@ -1,0 +1,64 @@
+nav div {
+    display: inline-block;
+}
+
+.search-bar1 {
+
+    padding-top: 10px;
+}
+
+.heading {
+    display: block;
+}
+
+.title-para {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    font-size: 20px;
+}
+
+.button1 {
+    margin-right: 5px;
+}
+
+.button2 {
+
+    border: 1px solid lightgray;
+    box-shadow: 1px 1px lightgray;
+    margin-left: 5px;
+}
+
+
+
+
+#last-div {
+    margin-top: 30px;
+    /* margin-left: 0px; */
+}
+
+img {
+    width: 350px;
+}
+
+#end-nav {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+    font-size: 13px;
+    box-shadow: -1px -1px lightgray;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
